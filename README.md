@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abderrahman Erahali</h1>
-<h3 align="center">My name is Abderrahman Erahali. I am an expert in graphic design, UI/UX, video editing, motion design, programming, DevOps, sound engineering, and digital marketing. I combine aesthetics and technical performance to create innovative visual and digital solutions, transforming creative ideas into functional projects.</h3>
+<h3 align="center">Specializing in graphic design, UI/UX, video editing, motion graphics, programming, and digital marketing, I create visually compelling and functional solutions, turning creative ideas into impactful digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdrahmanrhli&label=Profile%20views&color=0e75b6&style=flat" alt="abdrahmanrhli" /> </p>
 
